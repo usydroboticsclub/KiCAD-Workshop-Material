@@ -1,4 +1,4 @@
-# KiCAD-Workshop-Material
+# Beginner KiCAD-Workshop-Material (Keychain)
 This is a private repository for the Beginner KiCAD Workshop by USRC.
 
 The workshop will take participants through the basics of KiCAD, covering:
