@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Switches") (type "KiCad") (uri "C:/Users/parve/Documents/KiCad/external_libraries/External_Libraries_Organized/Switches.pretty") (options "") (descr ""))
+	(lib (name "External_Potentiometers") (type "KiCad") (uri "C:/Users/parve/Documents/KiCad/external_libraries/External_Libraries_Organized/Potentiometers/External_Potentiometers.pretty") (options "") (descr ""))
+	(lib (name "BatteryHoldersN") (type "KiCad") (uri "C:/Users/parve/Documents/KiCad/external_libraries/External_Libraries_Organized/BatteryHoldersN.pretty") (options "") (descr ""))
+)
