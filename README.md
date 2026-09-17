@@ -9,4 +9,4 @@ The workshop will take participants through the basics of KiCAD, covering:
 5. Assigning footprints to symbols.
 6. KiCAD PCB Layout.
 7. PCB layers, copper pours, exposed copper, custom PCB shapes
-8. Exporting gerber files.
+8. Exporting CAMoutput files.
