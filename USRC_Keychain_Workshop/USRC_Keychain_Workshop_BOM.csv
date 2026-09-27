@@ -1,0 +1,11 @@
+"Id;""Designator"";""Footprint"";""Quantity"";""Designation"";""Supplier and ref"";",,,,,,,,,
+"1;""BT1"";""BAT_3000"";1;""3000"";;;",,,,,,,,,
+"2;""C1"," C3"";""C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"";2;""100n"";;;",,,,,,,,
+"3;""C2"";""C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"";1;""300n"";;;",,,,,,,,,
+"4;""D1", D2, D3, D4, D5, D6, D7, D8, D9," D10"";""D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"";10;""LED"";;;"
+"5;""R1"";""R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"";1;""1M"";;;",,,,,,,,,
+"6;""R2", R3, R4, R5, R6, R7, R8, R9, R10," R11"";""R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"";10;""1k"";;;"
+"7;""RV1"";""TRIM_TC33X-2-103E"";1;""R_Potentiometer"";;;",,,,,,,,,
+"8;""S1"";""SW_JS102011SAQN"";1;""JS102011SAQN"";;;",,,,,,,,,
+"9;""U1"";""SOIC-8_3.9x4.9mm_P1.27mm"";1;""ICM7555xB"";;;",,,,,,,,,
+"10;""U2"";""DIP-16_W8.89mm_SMDSocket_LongPads"";1;""4017"";;;",,,,,,,,,

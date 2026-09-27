@@ -50,7 +50,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [],
@@ -508,7 +508,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerber_USRC_Keychain_FInal_Final/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -640,7 +640,7 @@
         "uuid": "d1c0ff1c-f3e0-4864-92dc-acbfe98d3b98"
       }
     ],
-    "used_designators": "",
+    "used_designators": "BT2,SW1,R12",
     "variants": []
   },
   "sheets": [
